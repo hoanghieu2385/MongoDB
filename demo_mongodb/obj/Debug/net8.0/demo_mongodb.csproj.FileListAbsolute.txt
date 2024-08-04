@@ -1,0 +1,60 @@
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\1. MongoDB\demo_mongodb\obj\Debug\net8.0\demo_mongodb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\1. MongoDB\demo_mongodb\obj\Debug\net8.0\demo_mongodb.AssemblyInfoInputs.cache
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\1. MongoDB\demo_mongodb\obj\Debug\net8.0\demo_mongodb.AssemblyInfo.cs
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\1. MongoDB\demo_mongodb\obj\Debug\net8.0\demo_mongodb.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\1. MongoDB\demo_mongodb\obj\Debug\net8.0\demo_mongodb.csproj.AssemblyReference.cache
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\1. MongoDB\demo_mongodb\bin\Debug\net8.0\demo_mongodb.exe
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\1. MongoDB\demo_mongodb\bin\Debug\net8.0\demo_mongodb.deps.json
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\1. MongoDB\demo_mongodb\bin\Debug\net8.0\demo_mongodb.runtimeconfig.json
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\1. MongoDB\demo_mongodb\bin\Debug\net8.0\demo_mongodb.dll
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\1. MongoDB\demo_mongodb\bin\Debug\net8.0\demo_mongodb.pdb
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\1. MongoDB\demo_mongodb\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\1. MongoDB\demo_mongodb\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\1. MongoDB\demo_mongodb\bin\Debug\net8.0\DnsClient.dll
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\1. MongoDB\demo_mongodb\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\1. MongoDB\demo_mongodb\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\1. MongoDB\demo_mongodb\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\1. MongoDB\demo_mongodb\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\1. MongoDB\demo_mongodb\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\1. MongoDB\demo_mongodb\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\1. MongoDB\demo_mongodb\bin\Debug\net8.0\Snappier.dll
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\1. MongoDB\demo_mongodb\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\1. MongoDB\demo_mongodb\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\1. MongoDB\demo_mongodb\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\1. MongoDB\demo_mongodb\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\1. MongoDB\demo_mongodb\obj\Debug\net8.0\demo_mon.BCB277F4.Up2Date
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\1. MongoDB\demo_mongodb\obj\Debug\net8.0\demo_mongodb.dll
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\1. MongoDB\demo_mongodb\obj\Debug\net8.0\refint\demo_mongodb.dll
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\1. MongoDB\demo_mongodb\obj\Debug\net8.0\demo_mongodb.pdb
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\1. MongoDB\demo_mongodb\obj\Debug\net8.0\demo_mongodb.genruntimeconfig.cache
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\1. MongoDB\demo_mongodb\obj\Debug\net8.0\ref\demo_mongodb.dll
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\SEM3-1.-MongoDB\demo_mongodb\bin\Debug\net8.0\demo_mongodb.exe
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\SEM3-1.-MongoDB\demo_mongodb\bin\Debug\net8.0\demo_mongodb.deps.json
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\SEM3-1.-MongoDB\demo_mongodb\bin\Debug\net8.0\demo_mongodb.runtimeconfig.json
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\SEM3-1.-MongoDB\demo_mongodb\bin\Debug\net8.0\demo_mongodb.dll
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\SEM3-1.-MongoDB\demo_mongodb\bin\Debug\net8.0\demo_mongodb.pdb
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\SEM3-1.-MongoDB\demo_mongodb\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\SEM3-1.-MongoDB\demo_mongodb\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\SEM3-1.-MongoDB\demo_mongodb\bin\Debug\net8.0\DnsClient.dll
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\SEM3-1.-MongoDB\demo_mongodb\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\SEM3-1.-MongoDB\demo_mongodb\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\SEM3-1.-MongoDB\demo_mongodb\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\SEM3-1.-MongoDB\demo_mongodb\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\SEM3-1.-MongoDB\demo_mongodb\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\SEM3-1.-MongoDB\demo_mongodb\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\SEM3-1.-MongoDB\demo_mongodb\bin\Debug\net8.0\Snappier.dll
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\SEM3-1.-MongoDB\demo_mongodb\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\SEM3-1.-MongoDB\demo_mongodb\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\SEM3-1.-MongoDB\demo_mongodb\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\SEM3-1.-MongoDB\demo_mongodb\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\SEM3-1.-MongoDB\demo_mongodb\obj\Debug\net8.0\demo_mongodb.csproj.AssemblyReference.cache
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\SEM3-1.-MongoDB\demo_mongodb\obj\Debug\net8.0\demo_mongodb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\SEM3-1.-MongoDB\demo_mongodb\obj\Debug\net8.0\demo_mongodb.AssemblyInfoInputs.cache
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\SEM3-1.-MongoDB\demo_mongodb\obj\Debug\net8.0\demo_mongodb.AssemblyInfo.cs
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\SEM3-1.-MongoDB\demo_mongodb\obj\Debug\net8.0\demo_mongodb.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\SEM3-1.-MongoDB\demo_mongodb\obj\Debug\net8.0\demo_mon.BCB277F4.Up2Date
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\SEM3-1.-MongoDB\demo_mongodb\obj\Debug\net8.0\demo_mongodb.dll
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\SEM3-1.-MongoDB\demo_mongodb\obj\Debug\net8.0\refint\demo_mongodb.dll
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\SEM3-1.-MongoDB\demo_mongodb\obj\Debug\net8.0\demo_mongodb.pdb
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\SEM3-1.-MongoDB\demo_mongodb\obj\Debug\net8.0\demo_mongodb.genruntimeconfig.cache
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\SEM3-1.-MongoDB\demo_mongodb\obj\Debug\net8.0\ref\demo_mongodb.dll
