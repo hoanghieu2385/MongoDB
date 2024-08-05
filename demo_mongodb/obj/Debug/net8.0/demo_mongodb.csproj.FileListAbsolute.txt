@@ -58,3 +58,4 @@ C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\SEM3-1.-MongoDB\demo_mongodb\o
 C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\SEM3-1.-MongoDB\demo_mongodb\obj\Debug\net8.0\demo_mongodb.pdb
 C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\SEM3-1.-MongoDB\demo_mongodb\obj\Debug\net8.0\demo_mongodb.genruntimeconfig.cache
 C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\SEM3-1.-MongoDB\demo_mongodb\obj\Debug\net8.0\ref\demo_mongodb.dll
+C:\Users\Hoang Hieu\Documents\Code learn\Hoc_Ky_3\SEM3-1.-MongoDB\demo_mongodb\obj\Debug\net8.0\demo_mongodb.sourcelink.json

@@ -23,9 +23,12 @@ def menu():
     while(True):
         print("\n======== Menu ========")
         # print("1. Add User")
+        # print("2. Update User")
+        # print("3. Delete User")
+        
         print("1. Add Many User")
-        print("2. Update User")
-        print("3. Delete User")
+        print("3. Delete Many User")
+        print("2. Update Many User")
         print("4. Show All User")
         
         choice = input ("\nEnter a number: ")
