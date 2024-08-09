@@ -6,7 +6,7 @@ internal class Program
     private static void Main(string[] args)
     {
         Console.WriteLine("Connection to mongodb\n");
-        string connection_string = "mongodb://localhost:27017/";
+        string connection_string = "mongodb://localhost:27017/?authMechanism=DEFAULT";
         var client = new MongoClient(connection_string);
         var collection = client.GetDatabase("T2308M").GetCollection<BsonDocument>("users");
         // foreach (BsonDocument doc in collection.Aggregate<BsonDocument>().ToList())
